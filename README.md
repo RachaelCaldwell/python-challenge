@@ -3,6 +3,7 @@ The Module 3 Challenge is comprised of two Python tasks, PyBank and PyPoll.
 * PyBank: Analysis of monthly financial data
 * PyPoll: Analysis of election results
 
+
 **Challenge 1:** PyBank
 
 ![image](https://github.com/RachaelCaldwell/python-challenge/assets/134207637/5416d2eb-29c6-41c2-99cb-a4a939219540)
@@ -31,8 +32,10 @@ The [PyBank Python script](https://github.com/RachaelCaldwell/python-challenge/b
     Greatest Increase in Profits: Aug-16 ($1862002)
     Greatest Decrease in Profits: Feb-14 ($-1825558)
 
+
 **Challenge 2:** PyPoll
 
+![image](https://github.com/RachaelCaldwell/python-challenge/blob/main/Images/Vote_counting.png)
 
 The PyPoll Python script analyzes a set of poll data called election_data.csv to help a small, rural town modernize its vote-counting process. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". 
 
