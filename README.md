@@ -1,9 +1,13 @@
 # python-challenge
-Module 3 Python Challenge- Part 1, PyBank
+The Module 3 Challenge is comprised of two Python tasks, PyBank and PyPoll.
+* PyBank: Analysis of monthly financial data
+* PyPoll: Analysis of election results
+
+**Challenge 1:** PyBank
 
 ![image](https://github.com/RachaelCaldwell/python-challenge/assets/134207637/5416d2eb-29c6-41c2-99cb-a4a939219540)
 
-This PyBank Python script analyzes a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
+The PyBank Python script analyzes a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 The PyBank Python script analyzes the records to calculate:
     
@@ -17,7 +21,7 @@ The PyBank Python script analyzes the records to calculate:
 
 * The greatest decrease in profits
 
-PyBank Analysis Results:
+[PyBank Financial Analysis](https://github.com/RachaelCaldwell/python-challenge/blob/main/PyBank/PyBank.txt) 
 
     Financial Analysis
     ............................................................................
