@@ -22,7 +22,7 @@ The [PyBank Python script](https://github.com/RachaelCaldwell/python-challenge/b
 
 * The greatest decrease in profits
 
-[PyBank Financial Analysis](https://github.com/RachaelCaldwell/python-challenge/blob/main/PyBank/PyBank.txt) 
+[PyBank Financial Analysis](https://github.com/RachaelCaldwell/python-challenge/blob/main/PyBank/Analysis/PyBank.txt) 
 
     Financial Analysis
     ............................................................................
