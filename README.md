@@ -51,7 +51,7 @@ The [PyPoll Python script](https://github.com/RachaelCaldwell/python-challenge/b
 
 * The winner of the election based on popular vote
 
-[PyPoll Election Analysis](https://github.com/RachaelCaldwell/python-challenge/blob/main/PyPoll/PyPoll.txt)
+[PyPoll Election Analysis](https://github.com/RachaelCaldwell/python-challenge/blob/main/PyPoll/Analysis/PyPoll.txt)
 
     Election Results
     ............................................................................
