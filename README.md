@@ -7,7 +7,7 @@ The Module 3 Challenge is comprised of two Python tasks, PyBank and PyPoll.
 
 ![image](https://github.com/RachaelCaldwell/python-challenge/assets/134207637/5416d2eb-29c6-41c2-99cb-a4a939219540)
 
-The PyBank Python script analyzes a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
+The PyBank Python script analyzes a financial dataset called [budget_data.csv](https://github.com/RachaelCaldwell/python-challenge/blob/main/PyBank/Resources/budget_data.csv). The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 The [PyBank Python script](https://github.com/RachaelCaldwell/python-challenge/blob/main/PyBank/PyBank.py) analyzes the records to calculate:
     
@@ -30,3 +30,22 @@ The [PyBank Python script](https://github.com/RachaelCaldwell/python-challenge/b
     Average Change: -8311.11
     Greatest Increase in Profits: Aug-16 ($1862002)
     Greatest Decrease in Profits: Feb-14 ($-1825558)
+
+**Challenge 2:** PyPoll
+
+
+The PyPoll Python script analyzes a set of poll data called election_data.csv to help a small, rural town modernize its vote-counting process. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". 
+
+The [PyPoll Python script] analyzes the votes to calculate:
+
+* The total number of votes cast
+
+* A complete list of candidates who received votes
+
+* The percentage of votes each candidate won
+
+* The total number of votes each candidate won
+
+* The winner of the election based on popular vote
+
+[PyPoll Election Analysis]
