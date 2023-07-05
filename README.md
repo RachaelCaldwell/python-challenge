@@ -9,7 +9,7 @@ The Module 3 Challenge is comprised of two Python tasks, PyBank and PyPoll.
 
 The PyBank Python script analyzes a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
-The PyBank Python script analyzes the records to calculate:
+The [PyBank Python script](https://github.com/RachaelCaldwell/python-challenge/blob/main/PyBank/PyBank.py) analyzes the records to calculate:
     
 * The total number of months included in the dataset
 
