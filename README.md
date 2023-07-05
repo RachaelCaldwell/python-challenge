@@ -39,7 +39,7 @@ The [PyBank Python script](https://github.com/RachaelCaldwell/python-challenge/b
 
 The PyPoll Python script analyzes a set of poll data called election_data.csv to help a small, rural town modernize its vote-counting process. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". 
 
-The [PyPoll Python script] analyzes the votes to calculate:
+The [PyPoll Python script](https://github.com/RachaelCaldwell/python-challenge/blob/main/PyPoll/PyPoll.py) analyzes the votes to calculate:
 
 * The total number of votes cast
 
